@@ -1,7 +1,4 @@
 # Clinical_RAG_Patient_Notes_Summary
-LLM based RAG app where Clinicians can chat with longitudinal unstructured patient data and summrize medical history.
-
-# Clinical_RAG_Patient_Notes_Summary
 
 **Clinical_RAG_Patient_Notes_Summary** is an innovative Retrieval-Augmented Generation (RAG) application powered by large language models (LLMs). This tool is designed to help clinicians interact with longitudinal unstructured patient data, enabling them to chat with the system and receive concise summaries of a patient's medical history.
 
