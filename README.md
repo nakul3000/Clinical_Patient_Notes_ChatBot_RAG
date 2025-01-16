@@ -10,6 +10,9 @@
 - **Summarization:** Automatically summarizes complex, longitudinal patient data into coherent medical history overviews.
 - **Enhanced Insight:** Helps clinicians quickly access key aspects of a patient's past medical records, improving decision-making and patient care.
 
+![Unstrctured Patient's longitudinal notes](images/unstrcutured.png)
+
+
 ## Dataset and LLM Details
 
 ### Dataset: emrQA
