@@ -9,7 +9,8 @@
 - **Chat Interface:** Provides a conversational interface where clinicians can ask questions and engage in dialogue about a patient's medical history.
 - **Summarization:** Automatically summarizes complex, longitudinal patient data into coherent medical history overviews.
 - **Enhanced Insight:** Helps clinicians quickly access key aspects of a patient's past medical records, improving decision-making and patient care.
-  
+
+## Results
 ![Unstructured Data Diagram](Images/flow.png)
 
 
