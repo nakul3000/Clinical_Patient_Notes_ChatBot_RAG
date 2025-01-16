@@ -10,7 +10,9 @@
 - **Summarization:** Automatically summarizes complex, longitudinal patient data into coherent medical history overviews.
 - **Enhanced Insight:** Helps clinicians quickly access key aspects of a patient's past medical records, improving decision-making and patient care.
   
-![Unstructured Data Diagram](https://raw.githubusercontent.com/nakul3000/Clinical_RAG_Patient_Notes_Summary/main/Images/unstrcutured.png)
+![Unstructured Data Diagram](Images/flow.png)
+
+
 
 
 
